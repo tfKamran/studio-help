@@ -19,4 +19,4 @@ file and select something like "burn ISO file to disk".
 The modified files added to the appliance are stored in
 `/home/tux/*` and should be copied to the `/etc/skel` directory. Then new
 users created at installation time or later will have the same behaviour
-and appearence as the liveCD default one.
+and appearance as the liveCD default one.

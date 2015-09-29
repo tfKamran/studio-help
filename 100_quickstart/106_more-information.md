@@ -12,7 +12,7 @@ Read on for more detailed information about how to use SUSE Studio.
 [Test >]:   ../test/index.html
 [Use >]:    ../use/index.html
 
-In case of sprecific questions or issues you may want to look at
+In case of specific questions or issues you may want to look at
 the list of [Frequently Asked Questions][FAQ] or the [Troubleshooting] tips.
 
 In the [API] section you'll find information on how to integrate

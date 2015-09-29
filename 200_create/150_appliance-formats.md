@@ -7,8 +7,8 @@ formats. Each format is used for a different purpose:
 
 **USB stick/hard disk image**
 Dump this format on your USB stick or hard disk and boot from it. You
-may need to instuct the machine's BIOS to boot from an external source
-if you're usign a USB stick. You can write the disk image using either
+may need to instruct the machine's BIOS to boot from an external source
+if you're using a USB stick. You can write the disk image using either
 the `dd` command or image writing software on any existing OS.
 
 Live USB sticks provide a high-performance option for creating a
@@ -123,7 +123,7 @@ for more information.
 Windows Azure is another option for hosting your appliances. The Azure
 Image format will do the hard work for you, building a .vhd file
 tailored for hosting on Microsoft's Windows Azure service. Upload your
-Azure publishsettings file to your Studio account, and you will be able
+Azure publish settings file to your Studio account, and you will be able
 to create images on Windows Azure, then jump over to the management
 portal to instantiate and manage your virtual machines.
 See [Use > Windows Azure] for more information.

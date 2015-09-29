@@ -126,7 +126,7 @@ the gzip-compressed appliance.
 [Uncompress and untar][uncompress-blog] the appliance.
 Perhaps you can use [7-zip][win-7zip], a tool unter GNU LGPL licence.
 
-To write your appliance to a USB stick in a Windows enviroment,
+To write your appliance to a USB stick in a Windows environment,
 you need to the '[dd for windows][win-dd]' tool.
 
 To find the device to write to, insert the USB stick, open the
@@ -260,7 +260,7 @@ compare the md5sums of the raw image and the newly created device:**
 
 That is the same case as How to copy an image onto a USB drive but
 with the difference that you need to boot from an external media, like
-another USB stick or liveCD with the dd tool on it.
+another USB stick or liveCD with the `dd` tool on it.
 
 An alternative is to boot from some live media and then transfer the
 image over the network from another machine.

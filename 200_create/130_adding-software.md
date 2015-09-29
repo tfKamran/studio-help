@@ -63,7 +63,7 @@ In addition to the software available in the base repositories, an
 ever-growing library of software is available via the openSUSE Build
 Service and other external software repositories. SUSE Studio provides
 the same benefits to software added via external repositories as it does
-for base repositories: you will still automatically recieve available
+for base repositories: you will still automatically receive available
 updates, and dependency resolution will work across all the repositories
 included in your appliance.
 

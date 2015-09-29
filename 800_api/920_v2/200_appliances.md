@@ -320,7 +320,7 @@ POST /api/v2/user/appliances/`<id>`/gpg_keys?name=`<name>`&target=`<target>`&key
 > * `<id>`: Id of the appliance.
 > * `<name>`: A name for the key.
 > * `<target>`: The target specifies into which keyring the key will be
->   importet. Possible values are: 'rpm'.
+>   imported. Possible values are: 'rpm'.
 > * (optional) `<the_key>`: The URL-encoded key.
 >
 > Uploads a GPG key to the appliance with the id `id`. The key can

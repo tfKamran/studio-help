@@ -12,7 +12,7 @@ Before you can upload an image you have to build it. Switch to the
 Configuration > Appliance tab. Enable the *Integrate with SUSE Cloud / OpenStack*
 checkbox and build an *SUSE Cloud / OpenStack / KVM* image.
 
-While the image builds you can prepare for the uploade:
+While the image builds you can prepare for the upload:
 
 * Download the openrc.sh from SUSE Cloud:
   Go to Settings > OpenStack Credentials and click on *Download RC File*.

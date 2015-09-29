@@ -1,6 +1,6 @@
 # WebHooks
 
-[WebHooks][webhooks] are simple event notifications and offer a user-definied callback mechanism based on 
+[WebHooks][webhooks] are simple event notifications and offer a user-defined callback mechanism based on 
 the Hypertext Transfer Protocol (HTTP).
 With WebHooks you can react to events in your application emitted by your SUSE Studio server.
 An event occurs on the source site (typically your Studio server) and can invoke special 
@@ -15,7 +15,7 @@ installation.
 ## Testing WebHooks
 
 WebHooks are triggered whenever a build completes successfully. In this example,
-we build an appliance and use http://requestb.in to demostrate how you
+we build an appliance and use http://requestb.in to demonstrate how you
 could test WebHooks and look at the actual data being sent.
 
 

@@ -8,7 +8,7 @@ production process.
 
 SUSE Studio makes the creation of these images easy, but it's a bit tricky
 to get them onto your target system. One way is to use a boot disk, like a Live
-CD/DVD or Live USB stick, and then dd the image to the target hard drive. This
+CD/DVD or Live USB stick, and then `dd` the image to the target hard drive. This
 can be largely automated with a smart boot image that can, with a
 bit of scripting and setup, automatically load the image from a server via the
 network and write it to the target drive (eg. dd over netcat). Unfortunately

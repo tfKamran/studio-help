@@ -28,7 +28,7 @@ system configuration
 + a VMware Image,
 + or a Xen Image. 
 
-**Testdrive:** Whwn the build is finished, launch and interact with your
+**Testdrive:** When the build is finished, launch and interact with your
 creation in a virtual machine in your browser window, make changes, and
 commit those changes to the appliance. To do this, use the Modified
 files tab in Testdrive.

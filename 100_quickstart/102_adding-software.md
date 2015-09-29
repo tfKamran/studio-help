@@ -18,7 +18,7 @@ options for adding software:
    [openSUSE Build Service][OBS] or any other compatible software
    collection on the web. *Be sure to use sources which are compatible
    with the base template you have selected.*
-   Popular third-pary sources include [Packman], [VideoLan],
+   Popular third-party sources include [Packman], [VideoLan],
    and hardware vendors.
    [The openSUSE wiki][other-repos] has a more definitive list.
 

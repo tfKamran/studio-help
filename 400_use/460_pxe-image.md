@@ -29,7 +29,7 @@ protocols for deployment (see Alternative Protocols section below).
 Follow these steps to setup an Atftp server:
 
 1. Install the package 'atftp'.
-2. Edit the file '/etc/sysconfig/atftpd' to set or modifiy the following
+2. Edit the file '/etc/sysconfig/atftpd' to set or modify the following
 variables:
 <pre>ATFTPD_OPTIONS="--daemon --no-multicast"
 ATFTPD_DIRECTORY="/srv/tftpboot"</pre>

@@ -53,7 +53,7 @@ If you are uncertain of the locale your appliance will be used in or
 would like to provide your appliance's users the widest choice, you may
 select "Ask on first boot". *YaST* will then prompt your users during first boot to select the locale.
 
-**YaST** *is also used to accomodate the* "Ask on first boot" *option
+**YaST** *is also used to accommodate the* "Ask on first boot" *option
 for time zones.*
 
 # Customizing network settings
